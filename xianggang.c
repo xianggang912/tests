@@ -1,4 +1,5 @@
 #include <stdio.h>
+#define HELLO WORLD
 
 int main(void)
 {
